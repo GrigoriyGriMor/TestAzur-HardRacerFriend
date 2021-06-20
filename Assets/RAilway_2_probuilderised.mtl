@@ -1,0 +1,5 @@
+newmtl SimpleTrains_Material_Color_01
+map_Kd SimpleTrains_Texture_01.png
+Kd 1.0 1.0 1.0
+d 1.0
+

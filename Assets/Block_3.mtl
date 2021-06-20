@@ -1,0 +1,25 @@
+newmtl Pavement_1A_D
+map_Kd Tiles_1C.psd
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Road_1A_D
+map_Kd Road_1A_D.psd
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Building_5A_D
+map_Kd Building_5A_D.psd
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Tree_1A_D
+map_Kd Tree_1A_D.psd
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl A_1_mat
+map_Kd Building_8A_D.psd
+Kd 1.0 1.0 1.0
+d 1.0
+

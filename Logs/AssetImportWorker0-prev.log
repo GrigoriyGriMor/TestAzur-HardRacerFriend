@@ -1,0 +1,1824 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1052; Version 2004; 64bit' Language: 'ru' Physical Memory: 16347 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/wertt/YandexDisk-GriMorProgram/HardRacerFriend (2)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51031
+Successfully changed project path to: C:/Users/wertt/YandexDisk-GriMorProgram/HardRacerFriend (2)
+C:/Users/wertt/YandexDisk-GriMorProgram/HardRacerFriend (2)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/wertt/YandexDisk-GriMorProgram/HardRacerFriend (2)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002629 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 62.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.034 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.033563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 58.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 2230.
+Total: 2.892400 ms (FindLiveObjects: 0.184900 ms CreateObjectMapping: 0.082500 ms MarkObjects: 2.487800 ms  DeleteObjects: 0.136300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcb9fbebecffac3cc51afa50ba70bf8c') in 0.159389 seconds
+  Import took 0.164150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.949170 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.1.prefab
+  artifactKey: Guid(b5ea624fac4bcb44f96ad51d3745727e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.1.prefab using Guid(b5ea624fac4bcb44f96ad51d3745727e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe150d311d67d1bb8401648f0338ca99') in 0.012853 seconds
+  Import took 0.020528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.2 Six.prefab
+  artifactKey: Guid(0d500c5e8ad781840a06fc8f512f27ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.2 Six.prefab using Guid(0d500c5e8ad781840a06fc8f512f27ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0146c107e7e752860f0c8f5c672f8c2c') in 0.009134 seconds
+  Import took 0.015043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5 Tentacle point.prefab
+  artifactKey: Guid(acfea269b5aec3142aeec88a60895c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5 Tentacle point.prefab using Guid(acfea269b5aec3142aeec88a60895c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b58c67cd5be40707f54b51ca3d4bcd') in 0.011986 seconds
+  Import took 0.017636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.3 Domain.prefab
+  artifactKey: Guid(07646d420e43aea44892c3a6320a52ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.3 Domain.prefab using Guid(07646d420e43aea44892c3a6320a52ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e86200d976310f21215054c24a3442e5') in 0.018382 seconds
+  Import took 0.023093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5.1 Tentacle point.prefab
+  artifactKey: Guid(b29c1c092b2b341438abc1f2b36f1213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5.1 Tentacle point.prefab using Guid(b29c1c092b2b341438abc1f2b36f1213) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedea0596537cf32ae13c01e1e2e5400') in 0.019562 seconds
+  Import took 0.026026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5 Tentacle trail.prefab
+  artifactKey: Guid(47121ae891ef7614c9f45ce4b4f8fcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5 Tentacle trail.prefab using Guid(47121ae891ef7614c9f45ce4b4f8fcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e66af0998082af66be1f5d157b65fac') in 0.016834 seconds
+  Import took 0.023223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.4 Domain.prefab
+  artifactKey: Guid(5f20420a36c817f4f8328369cb4883a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.4 Domain.prefab using Guid(5f20420a36c817f4f8328369cb4883a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cb8568b5455d13ea3a538990431467') in 0.012132 seconds
+  Import took 0.020173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.1.3 Portal.prefab
+  artifactKey: Guid(303fa73578986ac4a82283eeb1edc654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.1.3 Portal.prefab using Guid(303fa73578986ac4a82283eeb1edc654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e355a3f08b7827ccfc9a08fe0a3e3002') in 0.009647 seconds
+  Import took 0.015884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042367 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5.1 Tentacle trail.prefab
+  artifactKey: Guid(2a2762eb559a5e24cb94e81034b36a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Spiral_02.5.1 Tentacle trail.prefab using Guid(2a2762eb559a5e24cb94e81034b36a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8541bc74414af5c9595c41d9becb787') in 0.021413 seconds
+  Import took 0.027508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Test character.prefab
+  artifactKey: Guid(97fc6add231749d43be60e8648cb62ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Particle Ribbon by Moonflower Carnivore/Prefabs/Test character.prefab using Guid(97fc6add231749d43be60e8648cb62ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180bd924e796a49bff8a16ea42b08742') in 0.036717 seconds
+  Import took 0.041661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.796128 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Billboard_4A.fbx
+  artifactKey: Guid(e92675400e90a403a8173973d9898c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Billboard_4A.fbx using Guid(e92675400e90a403a8173973d9898c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d7a1c602da0d740ed7dfcfdeff0de9') in 0.157864 seconds
+  Import took 0.163662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Colliders/Brownstone_5A_MeshCollider.fbx
+  artifactKey: Guid(ea8d8e94e59e6419fa7fcc629d3c1a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Colliders/Brownstone_5A_MeshCollider.fbx using Guid(ea8d8e94e59e6419fa7fcc629d3c1a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2b2e4456ddf2c432cc41a0c8f54944') in 0.035477 seconds
+  Import took 0.042094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Brownstone_5A.fbx
+  artifactKey: Guid(37c07dd5c0c1249d8bd18d0745e22220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Brownstone_5A.fbx using Guid(37c07dd5c0c1249d8bd18d0745e22220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc698bd7f92c14ef52c790902113750') in 0.055867 seconds
+  Import took 0.060750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Colliders/Brownstone_4A_MeshCollider.fbx
+  artifactKey: Guid(5a148fa1b1bb84ad0a49d25e3da9b7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Colliders/Brownstone_4A_MeshCollider.fbx using Guid(5a148fa1b1bb84ad0a49d25e3da9b7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199a5e79f7240e2e8c5b53b5c8638d8a') in 0.029192 seconds
+  Import took 0.039931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.296142 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_4C.fbx
+  artifactKey: Guid(e297698a6e2e240c4958fc96d6d03d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_4C.fbx using Guid(e297698a6e2e240c4958fc96d6d03d3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a756d1d95f85580d0d6a1d76821ec6') in 0.058345 seconds
+  Import took 0.063085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_5B.fbx
+  artifactKey: Guid(3951cbb8c715446af8f6586db4303134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_5B.fbx using Guid(3951cbb8c715446af8f6586db4303134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b47198501748ee0daed054d9385b86') in 0.051952 seconds
+  Import took 0.059289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_6A.fbx
+  artifactKey: Guid(805a5c3902e454f7d89095754e51a8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_6A.fbx using Guid(805a5c3902e454f7d89095754e51a8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfce664cd798203eb81f672d7e8b983') in 0.058654 seconds
+  Import took 0.065458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_11A.fbx
+  artifactKey: Guid(92da6bae969af4ad2a8c09dce781b3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_11A.fbx using Guid(92da6bae969af4ad2a8c09dce781b3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ec894942c5539461da85bcd70237ff') in 0.060481 seconds
+  Import took 0.068094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_9C.fbx
+  artifactKey: Guid(b1ea6649299e44167ac00c79989afae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_9C.fbx using Guid(b1ea6649299e44167ac00c79989afae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc1d2e63cab86d0166952e5cd9ed157') in 0.075678 seconds
+  Import took 0.080238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_12D.fbx
+  artifactKey: Guid(e85c43eb88a8d4ad9a1f3e0b2cb0f8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_12D.fbx using Guid(e85c43eb88a8d4ad9a1f3e0b2cb0f8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada90f45a43279493719ed52139e2b37') in 0.054809 seconds
+  Import took 0.059709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_13C.fbx
+  artifactKey: Guid(3c37755b85c734f92a85adc38d0e252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_13C.fbx using Guid(3c37755b85c734f92a85adc38d0e252a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3fd7ad93817c6af1c4893af755b85e') in 0.055786 seconds
+  Import took 0.061145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_9B.fbx
+  artifactKey: Guid(f86c399fe98794401a9d6370de140280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_9B.fbx using Guid(f86c399fe98794401a9d6370de140280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d910344d09514a739de85ca82e18c9') in 0.046836 seconds
+  Import took 0.051783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_7A.fbx
+  artifactKey: Guid(33868fa970ec04039a00af70e4fff9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_7A.fbx using Guid(33868fa970ec04039a00af70e4fff9e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87d369afcf63ee5ae69514f110339cd') in 0.047866 seconds
+  Import took 0.056806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_5A.fbx
+  artifactKey: Guid(605646a8b41444c95a9994055ea6412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_5A.fbx using Guid(605646a8b41444c95a9994055ea6412b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03ee79d8ff5fa2eaa1d1e92d3b810af') in 0.055574 seconds
+  Import took 0.063477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_12B.fbx
+  artifactKey: Guid(0e777c4cf82df4b8e90ee8a5e05c771c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_12B.fbx using Guid(0e777c4cf82df4b8e90ee8a5e05c771c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aeaf5b943266d3ca5f352fdb3eefcce') in 0.044622 seconds
+  Import took 0.051416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_10A.fbx
+  artifactKey: Guid(b8d79b075f1fc42028152492021e86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_10A.fbx using Guid(b8d79b075f1fc42028152492021e86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5848346fdfef9bf738bed0e97fab4d0') in 0.060332 seconds
+  Import took 0.070039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000739 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_9A.fbx
+  artifactKey: Guid(9801c9c4725f442209bf47595f9c8ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_9A.fbx using Guid(9801c9c4725f442209bf47595f9c8ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f6343e572f4d933600a06eadb0417f') in 0.057533 seconds
+  Import took 0.063529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_10B.fbx
+  artifactKey: Guid(5c9523c21fc7b43ec9c9bd22fff94472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_10B.fbx using Guid(5c9523c21fc7b43ec9c9bd22fff94472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad12b7ee78d514f9eca2c2d85ce12af8') in 0.051568 seconds
+  Import took 0.056825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_12C.fbx
+  artifactKey: Guid(a065f56587abe4529af34cf7fc9ef8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_12C.fbx using Guid(a065f56587abe4529af34cf7fc9ef8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf492e122143cb0e7c38affb4701ebe') in 0.038589 seconds
+  Import took 0.049699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_13B.fbx
+  artifactKey: Guid(8b6a44f34a65c42dcb0c87b7c9fc089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_13B.fbx using Guid(8b6a44f34a65c42dcb0c87b7c9fc089a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8be31bd8053dc5631d1b78ffe953a4') in 0.057239 seconds
+  Import took 0.062787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_5E.fbx
+  artifactKey: Guid(2e13e69bd793e4b96b13ad04694b1670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_5E.fbx using Guid(2e13e69bd793e4b96b13ad04694b1670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f04c756af1501372419e2693ef0fa1') in 0.050382 seconds
+  Import took 0.054091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_11B.fbx
+  artifactKey: Guid(eaddedfee8e44441a9f5111474d8baf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_11B.fbx using Guid(eaddedfee8e44441a9f5111474d8baf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470926d28a2437a3d0c9c0b9f2c2cc52') in 0.067422 seconds
+  Import took 0.072010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_5D.fbx
+  artifactKey: Guid(f6c46a04d0be64c4290efed1bb34a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_5D.fbx using Guid(f6c46a04d0be64c4290efed1bb34a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2c90aee38e3cf66d4c49991a4316ba') in 0.049503 seconds
+  Import took 0.055711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_12A.fbx
+  artifactKey: Guid(efecbe930510f412e846f1129b20643a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_12A.fbx using Guid(efecbe930510f412e846f1129b20643a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d989cd0388312994a93ce96f5d66e3') in 0.052569 seconds
+  Import took 0.062264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_13A.fbx
+  artifactKey: Guid(ba78b08f3c1c441e7948d620d565b0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_13A.fbx using Guid(ba78b08f3c1c441e7948d620d565b0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee73d0e6c3455be7cff373a08570861') in 0.057118 seconds
+  Import took 0.068096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_8A.fbx
+  artifactKey: Guid(61ad7b8ae137a4190890fdc4d8e8b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_8A.fbx using Guid(61ad7b8ae137a4190890fdc4d8e8b553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202a77bbb53a643b0c393d83274f1461') in 0.066799 seconds
+  Import took 0.073081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_5C.fbx
+  artifactKey: Guid(60f7e52af3cf643c8aa5b3f1ecb223ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_5C.fbx using Guid(60f7e52af3cf643c8aa5b3f1ecb223ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288af67e0875d2216c610adaeb6dcad2') in 0.071798 seconds
+  Import took 0.077099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.361561 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_13D.fbx
+  artifactKey: Guid(a6805831dff5640cc9e4a1457f32a690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_13D.fbx using Guid(a6805831dff5640cc9e4a1457f32a690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db42cc921b233d325a952a6ae637a77c') in 0.042002 seconds
+  Import took 0.047347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_16C.fbx
+  artifactKey: Guid(e012501da3bfd47a5bad3d76b122263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_16C.fbx using Guid(e012501da3bfd47a5bad3d76b122263d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c82c4f489f819730e34e03ef7b2850') in 0.051578 seconds
+  Import took 0.056564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_16A.fbx
+  artifactKey: Guid(54efb927616474eb7af1c3ee324bf945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_16A.fbx using Guid(54efb927616474eb7af1c3ee324bf945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fab96e09fd8ed779312bcfb40a1ecd5') in 0.044327 seconds
+  Import took 0.052866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_19B.fbx
+  artifactKey: Guid(66ea89aaf8df44a42a437bf309325de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_19B.fbx using Guid(66ea89aaf8df44a42a437bf309325de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807847b82b2210165fe99a0041f9dd59') in 0.052964 seconds
+  Import took 0.058894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_14A.fbx
+  artifactKey: Guid(5caa7b8b9fd644401be4468b9276c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_14A.fbx using Guid(5caa7b8b9fd644401be4468b9276c820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43d186e01cb2a6d62d47f87fc0ddf0ec') in 0.054685 seconds
+  Import took 0.061146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_14D.fbx
+  artifactKey: Guid(a1cf4aadedcd248668b0967575f56594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_14D.fbx using Guid(a1cf4aadedcd248668b0967575f56594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf46a7e68c986b3219990bb51bd9529') in 0.045678 seconds
+  Import took 0.055462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_15A.fbx
+  artifactKey: Guid(35100d5b40a3c4166bc76ca46ecb7091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_15A.fbx using Guid(35100d5b40a3c4166bc76ca46ecb7091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ebf8f979e9bb4bc91379a05662b95c') in 0.066226 seconds
+  Import took 0.070742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_17A.fbx
+  artifactKey: Guid(339f640be4fc84be7a3f69a9ddb90781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_17A.fbx using Guid(339f640be4fc84be7a3f69a9ddb90781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dbc4be4c8e94a11950aa29e96887ac') in 0.071114 seconds
+  Import took 0.076967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_15B.fbx
+  artifactKey: Guid(86149fee79ef4441b9a6e5bd4a975a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_15B.fbx using Guid(86149fee79ef4441b9a6e5bd4a975a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907a93a9b6268630c1fe83bf600f8548') in 0.065205 seconds
+  Import took 0.071146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Colliders/Building_18B_MeshCollider.fbx
+  artifactKey: Guid(35ba1758c6b02443f91abefc27a6615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Colliders/Building_18B_MeshCollider.fbx using Guid(35ba1758c6b02443f91abefc27a6615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5822a6b1105ab87c9de0bcf2cc620400') in 0.029298 seconds
+  Import took 0.038917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_14C.fbx
+  artifactKey: Guid(51877e18a66814e84bd0983a7e77f5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_14C.fbx using Guid(51877e18a66814e84bd0983a7e77f5d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ee2d34e5498911fe09f4902a0dbd4e') in 0.060031 seconds
+  Import took 0.069119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_14B.fbx
+  artifactKey: Guid(0aaf9179aed9b4ee98bdd9dfd47177c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_14B.fbx using Guid(0aaf9179aed9b4ee98bdd9dfd47177c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29426ae103dcb22d78cc24bd0b793bb1') in 0.057792 seconds
+  Import took 0.066542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_17C.fbx
+  artifactKey: Guid(c16f4516d0712441cbd6780a494d38ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_17C.fbx using Guid(c16f4516d0712441cbd6780a494d38ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd834761a7cae9e65204c645b01f58fea') in 0.072016 seconds
+  Import took 0.078065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_17B.fbx
+  artifactKey: Guid(52b8a73c9591d4dd2a3328cad4b2a315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_17B.fbx using Guid(52b8a73c9591d4dd2a3328cad4b2a315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd54cdf2af589f2591838ffd160fdb7') in 0.076241 seconds
+  Import took 0.080427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_19A.fbx
+  artifactKey: Guid(7a33637cfb173de498c22a60a0d3df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_19A.fbx using Guid(7a33637cfb173de498c22a60a0d3df4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbedd989740706f060a9801046afdb27') in 0.044069 seconds
+  Import took 0.049096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_17D.fbx
+  artifactKey: Guid(fefd9bbb2fec54add8604bb92edd3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_17D.fbx using Guid(fefd9bbb2fec54add8604bb92edd3e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb85653bdd0101b895caecf4f078af0') in 0.052031 seconds
+  Import took 0.057522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Building_18A.fbx
+  artifactKey: Guid(66d667a1ee47e4621b70dda0e42580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Building_18A.fbx using Guid(66d667a1ee47e4621b70dda0e42580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d458b99e4e55d8096914ea42d625b7') in 0.047810 seconds
+  Import took 0.052441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_16B.fbx
+  artifactKey: Guid(45bceb7da93ae4b8691598e4f3318649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_16B.fbx using Guid(45bceb7da93ae4b8691598e4f3318649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b926628c64689ccab0605853ce1df5c8') in 0.066521 seconds
+  Import took 0.072237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001081 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Colliders/Building_18A_MeshCollider.fbx
+  artifactKey: Guid(2420ff6566fd34b90ad78dfd91d2fb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Colliders/Building_18A_MeshCollider.fbx using Guid(2420ff6566fd34b90ad78dfd91d2fb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb8d75c8f88ca304ef6c507f9bfe12f') in 0.047020 seconds
+  Import took 0.056430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Building_18B.fbx
+  artifactKey: Guid(e69510b9d02ff4ff2aae3bd2b1b214a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Building_18B.fbx using Guid(e69510b9d02ff4ff2aae3bd2b1b214a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c26a23cbdbf8c498b783ada8a7692d') in 0.058218 seconds
+  Import took 0.065957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.575755 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_19C.fbx
+  artifactKey: Guid(11bf014b6184035428b0e7d57f362c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_19C.fbx using Guid(11bf014b6184035428b0e7d57f362c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340aec9a2873a8cfbe90cf0ca5980fb7') in 0.033753 seconds
+  Import took 0.038067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_20A.fbx
+  artifactKey: Guid(92f60a77de36d4548a607c2362a5c5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_20A.fbx using Guid(92f60a77de36d4548a607c2362a5c5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9910b8664c65b07bb06adda3f78e8c') in 0.061204 seconds
+  Import took 0.065484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_20B.fbx
+  artifactKey: Guid(3e86a7404e334f342ba9b2ad0f50f28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_20B.fbx using Guid(3e86a7404e334f342ba9b2ad0f50f28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86459ae8a8dbf933204879338cf18ae9') in 0.052071 seconds
+  Import took 0.058119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_20A.fbx
+  artifactKey: Guid(92f60a77de36d4548a607c2362a5c5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_20A.fbx using Guid(92f60a77de36d4548a607c2362a5c5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9910b8664c65b07bb06adda3f78e8c') in 0.053321 seconds
+  Import took 0.061994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000631 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_20B.fbx
+  artifactKey: Guid(3e86a7404e334f342ba9b2ad0f50f28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_20B.fbx using Guid(3e86a7404e334f342ba9b2ad0f50f28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86459ae8a8dbf933204879338cf18ae9') in 0.036584 seconds
+  Import took 0.051485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_21C.fbx
+  artifactKey: Guid(8643f5dbacc76534c8ceaebeab4831c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_21C.fbx using Guid(8643f5dbacc76534c8ceaebeab4831c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29eba4551fc47fb6cc6b2be3255d349c') in 0.063862 seconds
+  Import took 0.076832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_22A.fbx
+  artifactKey: Guid(91fbf54be0106d140945df52c6ce0b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_22A.fbx using Guid(91fbf54be0106d140945df52c6ce0b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13477a5b904d4cf35b4963807490bb0') in 0.046885 seconds
+  Import took 0.053456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_1B.fbx
+  artifactKey: Guid(d7dc02fcfd2ca4c4b9908dfd92472262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_1B.fbx using Guid(d7dc02fcfd2ca4c4b9908dfd92472262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6964e56dafecd76598507123f18426e3') in 0.038614 seconds
+  Import took 0.052709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_21B.fbx
+  artifactKey: Guid(f9828ee4d69188946a4ca1d60e8e6e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_21B.fbx using Guid(f9828ee4d69188946a4ca1d60e8e6e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0995fea0cb471b07b3706da2ca5f5267') in 0.079126 seconds
+  Import took 0.093758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_21A.fbx
+  artifactKey: Guid(5163751b560ee5345be58ab0867d39e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_21A.fbx using Guid(5163751b560ee5345be58ab0867d39e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c224d62505fca17eeea614a01ec87063') in 0.057785 seconds
+  Import took 0.063433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_1A.fbx
+  artifactKey: Guid(7c340d33b33ef457396704498340d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_1A.fbx using Guid(7c340d33b33ef457396704498340d1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0aa4bb2d173923cb302d6863a14621a') in 0.075246 seconds
+  Import took 0.082569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Car_My/ModelsToonCity/Building_20C.fbx
+  artifactKey: Guid(cea4f3c6b3bbeac46936c8b0ea1e6088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Building_20C.fbx using Guid(cea4f3c6b3bbeac46936c8b0ea1e6088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e12abf77b6b9ee0e4996db5748b0659') in 0.052860 seconds
+  Import took 0.062321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.808071 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_2A.fbx
+  artifactKey: Guid(b6032c41da634441086fb8ac02f50437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_2A.fbx using Guid(b6032c41da634441086fb8ac02f50437) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ef46dbf15811b91f5b3c73b3b3e0b3') in 0.037879 seconds
+  Import took 0.042714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_3A.fbx
+  artifactKey: Guid(64da3c0a901c842a3b1649b86c7ba990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_3A.fbx using Guid(64da3c0a901c842a3b1649b86c7ba990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a52595117ca4e0ca116c494c84c2d6') in 0.029035 seconds
+  Import took 0.036371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_1D.fbx
+  artifactKey: Guid(e25e0215971e147af996e9b70a074bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_1D.fbx using Guid(e25e0215971e147af996e9b70a074bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e8d331ea05cea82ab72e75b9eb825f') in 0.039461 seconds
+  Import took 0.046670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_2C.fbx
+  artifactKey: Guid(bb6be7740cc80448cb13f1349ad27d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_2C.fbx using Guid(bb6be7740cc80448cb13f1349ad27d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff96e5664ef3122b57623aadf02e504') in 0.062986 seconds
+  Import took 0.067058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_Pole_1C.fbx
+  artifactKey: Guid(d553d87d604a34c83a750a9b1fba0a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_Pole_1C.fbx using Guid(d553d87d604a34c83a750a9b1fba0a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58af846f5646312f8b3c265e2a3f3c65') in 0.063947 seconds
+  Import took 0.092537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_2C.fbx
+  artifactKey: Guid(3be9718dc23644d18acdd35b00f3c50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_2C.fbx using Guid(3be9718dc23644d18acdd35b00f3c50e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ad7080829bd10d36ae194fabfbf1bc') in 0.042136 seconds
+  Import took 0.048325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_Pole_1A.fbx
+  artifactKey: Guid(c3ca103eaaba440b4a3a85944feec96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_Pole_1A.fbx using Guid(c3ca103eaaba440b4a3a85944feec96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6ea106ab81d74621cd6875c2a7a6e0') in 0.034953 seconds
+  Import took 0.046403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_3B.fbx
+  artifactKey: Guid(a9dc24a09325e4526a8d544cee0ae932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_3B.fbx using Guid(a9dc24a09325e4526a8d544cee0ae932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a3c92747a4f253d072a000daf5f32a') in 0.046579 seconds
+  Import took 0.053896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_1B.fbx
+  artifactKey: Guid(e726d1e37083b496c8963fdebb9448f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_1B.fbx using Guid(e726d1e37083b496c8963fdebb9448f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73044126da2051a751fb8a206f7c728b') in 0.043364 seconds
+  Import took 0.049658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_2B.fbx
+  artifactKey: Guid(1d24ff4e868bb4ffb9c61468ce46daa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_2B.fbx using Guid(1d24ff4e868bb4ffb9c61468ce46daa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e43c7b0ba8eb216fa031705d4237d6') in 0.046752 seconds
+  Import took 0.052799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Car_My/ModelsToonCity/Bush_2D.fbx
+  artifactKey: Guid(14672e03744a24a8b9d24ddc3ed45523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Bush_2D.fbx using Guid(14672e03744a24a8b9d24ddc3ed45523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f218829b6d49d50a8fcf0868096acf5c') in 0.044568 seconds
+  Import took 0.051612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_1A.fbx
+  artifactKey: Guid(75a59e797287e4f06a3741d4e57d3bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_1A.fbx using Guid(75a59e797287e4f06a3741d4e57d3bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9adc86ba68058c10823e9740798d49ab') in 0.039274 seconds
+  Import took 0.048101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_2A.fbx
+  artifactKey: Guid(95d8627a1e60c46419078c35d9d0848b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_2A.fbx using Guid(95d8627a1e60c46419078c35d9d0848b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21608b2fb5cd270324a57c61d0feaf9a') in 0.031914 seconds
+  Import took 0.048445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_3B.fbx
+  artifactKey: Guid(4abdfab006f304781adb82f05bed6a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_3B.fbx using Guid(4abdfab006f304781adb82f05bed6a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41c1dc83eb835a4cbb1b7ed7d58767e') in 0.120760 seconds
+  Import took 0.127520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_2D.fbx
+  artifactKey: Guid(fbc2ab5b59e2341ee9c79fdba040fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_2D.fbx using Guid(fbc2ab5b59e2341ee9c79fdba040fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772bc8a03d4a1e25019440acb5daab5c') in 0.131990 seconds
+  Import took 0.137770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_1C.fbx
+  artifactKey: Guid(2d8945c2c36b447deb7ed22a6aa29c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_1C.fbx using Guid(2d8945c2c36b447deb7ed22a6aa29c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d24f880ef906e234a3b35846529e28b') in 0.034323 seconds
+  Import took 0.049335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_2B.fbx
+  artifactKey: Guid(f2c8b863959654cdb9c6ecb023993f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_2B.fbx using Guid(f2c8b863959654cdb9c6ecb023993f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a200d1d36a3486254ea234746b8b616') in 0.075412 seconds
+  Import took 0.082722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Cable_Pole_2A.fbx
+  artifactKey: Guid(db1c3972431944883860fcbbfaf71e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Cable_Pole_2A.fbx using Guid(db1c3972431944883860fcbbfaf71e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faaade1cebcc33d743eaf865e2ba2d12') in 0.060681 seconds
+  Import took 0.076429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_3C.fbx
+  artifactKey: Guid(20d6aa7b88ed04d2d953ca31a7300fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_3C.fbx using Guid(20d6aa7b88ed04d2d953ca31a7300fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b25330f71948d766c620cc2fa70d5e') in 0.193989 seconds
+  Import took 0.203003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Car_My/ModelsToonCity/Cable_Pole_1B.fbx
+  artifactKey: Guid(a09dcabfdc67840d0bf94a139b55acbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Cable_Pole_1B.fbx using Guid(a09dcabfdc67840d0bf94a139b55acbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416767b91b9562b7e8177fd6ad91afeb') in 0.073024 seconds
+  Import took 0.078781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.488129 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_4D.fbx
+  artifactKey: Guid(50acf019f1c284014b82d42d57180275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_4D.fbx using Guid(50acf019f1c284014b82d42d57180275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce00c8424b8c17ec50e77d37db0446cd') in 0.079844 seconds
+  Import took 0.083725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_6E.fbx
+  artifactKey: Guid(862dea0a1a252483fb67c87c89e390dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_6E.fbx using Guid(862dea0a1a252483fb67c87c89e390dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c039f6ee66b81bdccbf9b3249c942ef') in 0.072302 seconds
+  Import took 0.076931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_8D.fbx
+  artifactKey: Guid(9fef13f2790a040669fc2301af1fc756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_8D.fbx using Guid(9fef13f2790a040669fc2301af1fc756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d430a44d46486efff32449ee1c3209') in 0.101566 seconds
+  Import took 0.106216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_7E.fbx
+  artifactKey: Guid(fb4e4d398b78d4d788daf6f73b8da0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_7E.fbx using Guid(fb4e4d398b78d4d788daf6f73b8da0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51212b3ad4ebcfaac3544f81fb74032') in 0.073229 seconds
+  Import took 0.076790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_9A.fbx
+  artifactKey: Guid(023330564f43c4d5c8c7c13f7ff35a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_9A.fbx using Guid(023330564f43c4d5c8c7c13f7ff35a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e21bb852b0e173553c5c407b590a2b') in 0.115183 seconds
+  Import took 0.120253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_6F.fbx
+  artifactKey: Guid(f69c2d89bbf0048c080c20c0414d854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_6F.fbx using Guid(f69c2d89bbf0048c080c20c0414d854e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46681a95b9247e3a481f2628c047d0d6') in 0.071810 seconds
+  Import took 0.076325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_6D.fbx
+  artifactKey: Guid(e49ae156eec684104a64e4ebdc04995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_6D.fbx using Guid(e49ae156eec684104a64e4ebdc04995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a736dc85020658f64b17d6801d5ac23c') in 0.065313 seconds
+  Import took 0.070504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_7F.fbx
+  artifactKey: Guid(b1d6c665b43b54b25962ef6080d2f43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_7F.fbx using Guid(b1d6c665b43b54b25962ef6080d2f43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b65d28debd1bd86ca79a7cf67b9d20') in 0.081384 seconds
+  Import took 0.087069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_4E.fbx
+  artifactKey: Guid(b8f57694177d6492399304215d2321d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_4E.fbx using Guid(b8f57694177d6492399304215d2321d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9669cebf4fa93633d1f37e9444b44a') in 0.086873 seconds
+  Import took 0.092864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_7D.fbx
+  artifactKey: Guid(8343157a891434dc3a2a70df31b1d4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_7D.fbx using Guid(8343157a891434dc3a2a70df31b1d4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '404804459a50de941ed58887d5f6cb6a') in 0.072183 seconds
+  Import took 0.078085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_4E.fbx
+  artifactKey: Guid(b8f57694177d6492399304215d2321d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_4E.fbx using Guid(b8f57694177d6492399304215d2321d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9669cebf4fa93633d1f37e9444b44a') in 0.091712 seconds
+  Import took 0.096897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106588 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_10C.fbx
+  artifactKey: Guid(dd00a46c44c694f8e85302fd6a5099a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_10C.fbx using Guid(dd00a46c44c694f8e85302fd6a5099a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30426936df65dbda8b4e4687fed90130') in 0.097981 seconds
+  Import took 0.104190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_15C.fbx
+  artifactKey: Guid(97284383ad48547a19917b4de315ab5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_15C.fbx using Guid(97284383ad48547a19917b4de315ab5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80a164a6669da8adca041ebfba0473e') in 0.081989 seconds
+  Import took 0.087953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_15D.fbx
+  artifactKey: Guid(bd96fd95a59534af5902118ea7a0a028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_15D.fbx using Guid(bd96fd95a59534af5902118ea7a0a028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c42a2cc8e8a05b13716039299371745') in 0.097008 seconds
+  Import took 0.107893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_14D.fbx
+  artifactKey: Guid(dc5230bf3f40d4e93a85898471688ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_14D.fbx using Guid(dc5230bf3f40d4e93a85898471688ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848d1de2397a80ef9c1d0fe801fa6c3a') in 0.079077 seconds
+  Import took 0.084330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_11A.fbx
+  artifactKey: Guid(e721d1e74770449e68fcbcfa61602772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_11A.fbx using Guid(e721d1e74770449e68fcbcfa61602772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7acd49dea994399afc06ae0f430ec7') in 0.163482 seconds
+  Import took 0.169492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_10D.fbx
+  artifactKey: Guid(ed38e733abeb0486aa4d1363088ffe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_10D.fbx using Guid(ed38e733abeb0486aa4d1363088ffe8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff57802f3138bc4564a422f35da3abd7') in 0.130499 seconds
+  Import took 0.135391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_16A.fbx
+  artifactKey: Guid(f16fea105d0b64caa833aafd366059eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_16A.fbx using Guid(f16fea105d0b64caa833aafd366059eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc08490ba9a45e9c01232c4d95431c4b') in 0.176254 seconds
+  Import took 0.180867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_16B.fbx
+  artifactKey: Guid(59856a4694321443e98d18697b5ab08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_16B.fbx using Guid(59856a4694321443e98d18697b5ab08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b3be9a917d4268dcca7e2fafc4b811') in 0.107927 seconds
+  Import took 0.113603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_15B.fbx
+  artifactKey: Guid(b08761f3155c240a884b1b03d9e7a466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_15B.fbx using Guid(b08761f3155c240a884b1b03d9e7a466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6d2ddb470ff165d8880c3d94850d8d') in 0.117179 seconds
+  Import took 0.122548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Car_My/ModelsToonCity/Car_14C.fbx
+  artifactKey: Guid(150ea447e20bb4e4f90ec8942637004a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Car_14C.fbx using Guid(150ea447e20bb4e4f90ec8942637004a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436c32e172eb8c0cf4fc8eeaa7d84d37') in 0.133970 seconds
+  Import took 0.143121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.680262 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321bd7b276c2b17f84964f66b4c4f034') in 0.046618 seconds
+  Import took 0.054469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.475350 seconds.
+  path: Assets/Car_My/ModelsToonCity/City/_lock_2.FBX
+  artifactKey: Guid(2a59c323461ecfa45930b194ddfd78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/City/_lock_2.FBX using Guid(2a59c323461ecfa45930b194ddfd78ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee3c64389a7b2614e2aec0d8c8ce063') in 0.069470 seconds
+  Import took 0.074675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_1A_D.mat
+  artifactKey: Guid(61ad178143b71e947aef11ffbb6be797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_1A_D.mat using Guid(61ad178143b71e947aef11ffbb6be797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06f07fe8c5d4a81c164330a710fdc04d') in 0.040742 seconds
+  Import took 0.044955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Car_My/ModelsToonCity/City/_lock_3.FBX
+  artifactKey: Guid(a0e38965ae86b174a9fb748a8c706664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/City/_lock_3.FBX using Guid(a0e38965ae86b174a9fb748a8c706664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd751c21369032f849417226ca7e8a0c') in 0.048463 seconds
+  Import took 0.052822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Car_My/ModelsToonCity/Update/Materials/Brownstone_5A_D.mat
+  artifactKey: Guid(ca7c1598fb83443479202efa8af1fcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Update/Materials/Brownstone_5A_D.mat using Guid(ca7c1598fb83443479202efa8af1fcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf5b9a9d0b71584e37478783130b087') in 0.023923 seconds
+  Import took 0.028484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_4A_D.mat
+  artifactKey: Guid(fecc97dca07c94647a70a07335c4ad2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_4A_D.mat using Guid(fecc97dca07c94647a70a07335c4ad2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05aa5a67368b8fc2824e068d56607a9') in 0.021426 seconds
+  Import took 0.027179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_3A_D.mat
+  artifactKey: Guid(92f1eab27393640a795e907b32fa6b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_3A_D.mat using Guid(92f1eab27393640a795e907b32fa6b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdeb1cd532c785b5b89d5cfc76b5cad2') in 0.029698 seconds
+  Import took 0.035106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_1A_D.mat
+  artifactKey: Guid(174ff82e5a6a7451eb03c6b2a182b23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_1A_D.mat using Guid(174ff82e5a6a7451eb03c6b2a182b23d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60883f50eb0cedcd293679cbfdd5a56c') in 0.017198 seconds
+  Import took 0.022350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_3A_D.mat
+  artifactKey: Guid(130ea9f29a3e8c04994470ce0b2168b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_3A_D.mat using Guid(130ea9f29a3e8c04994470ce0b2168b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a18d3516aa9112d10c6d183fe6261e7') in 0.032699 seconds
+  Import took 0.041698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Car_My/ModelsToonCity/City/_lock_4.FBX
+  artifactKey: Guid(bb14a315807716a48b04e0f6b8721234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/City/_lock_4.FBX using Guid(bb14a315807716a48b04e0f6b8721234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274ed7579ada593520a9e9a1468543d7') in 0.049806 seconds
+  Import took 0.060368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005554 seconds.
+  path: Assets/Car_My/ModelsToonCity/City/_lock_4.FBX
+  artifactKey: Guid(bb14a315807716a48b04e0f6b8721234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/City/_lock_4.FBX using Guid(bb14a315807716a48b04e0f6b8721234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274ed7579ada593520a9e9a1468543d7') in 0.043595 seconds
+  Import took 0.054331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.181559 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_4A_D.mat
+  artifactKey: Guid(c577e65ceca5d45c79a38465529bd4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_4A_D.mat using Guid(c577e65ceca5d45c79a38465529bd4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c16e29d026951151f4f0f122f8364a') in 0.019969 seconds
+  Import took 0.025504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_9A_D.mat
+  artifactKey: Guid(20e332b159a0f4aa69b233aaf6da95be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_9A_D.mat using Guid(20e332b159a0f4aa69b233aaf6da95be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ceeed195e7f19103cd140f42cbe9329') in 0.027222 seconds
+  Import took 0.035730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_5A_D.mat
+  artifactKey: Guid(792bfb80ce612ec45b182c726c0e11c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_5A_D.mat using Guid(792bfb80ce612ec45b182c726c0e11c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '134f79489a52af1edcde1fc7c83f500f') in 0.023824 seconds
+  Import took 0.029739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_5A_D.mat
+  artifactKey: Guid(b66619d4ae52e43f0808490b02c8c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_5A_D.mat using Guid(b66619d4ae52e43f0808490b02c8c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ce4ea2013de2905113ac4192a051f7') in 0.025071 seconds
+  Import took 0.030597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_6A_D.mat
+  artifactKey: Guid(2a409438fcd6fae4a9eb61dbb24af856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_6A_D.mat using Guid(2a409438fcd6fae4a9eb61dbb24af856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf4b3f1ed05fe1762766e9320c454aa') in 0.018204 seconds
+  Import took 0.024116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_5A_D.mat
+  artifactKey: Guid(b66619d4ae52e43f0808490b02c8c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_5A_D.mat using Guid(b66619d4ae52e43f0808490b02c8c581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ce4ea2013de2905113ac4192a051f7') in 0.023872 seconds
+  Import took 0.029854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_7A_D.mat
+  artifactKey: Guid(34c920499ead7d4408dc653e06fe6026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_7A_D.mat using Guid(34c920499ead7d4408dc653e06fe6026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '108e6b08a3b20cb7076fcc1807898830') in 0.022482 seconds
+  Import took 0.027288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_4A_D.mat
+  artifactKey: Guid(c577e65ceca5d45c79a38465529bd4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_4A_D.mat using Guid(c577e65ceca5d45c79a38465529bd4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c16e29d026951151f4f0f122f8364a') in 0.017418 seconds
+  Import took 0.023554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_10A_D.mat
+  artifactKey: Guid(4a60a0da88d2d4c1d98c34f46fe9a86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_10A_D.mat using Guid(4a60a0da88d2d4c1d98c34f46fe9a86a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ebe38a92aa44ff7d7de009b4d6b4a7') in 0.022604 seconds
+  Import took 0.031326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_13A_D.mat
+  artifactKey: Guid(7f47d0b22b8fd104d86175b6f8a9e81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_13A_D.mat using Guid(7f47d0b22b8fd104d86175b6f8a9e81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de22a584fe28b4c3b5ffc476cc952f8e') in 0.016697 seconds
+  Import took 0.023586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_9A_D.mat
+  artifactKey: Guid(a3729d6aa95c01245af388cd8d0e6e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_9A_D.mat using Guid(a3729d6aa95c01245af388cd8d0e6e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd821779f2d015e16a38df216921b3ecc') in 0.028356 seconds
+  Import took 0.033176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_8A_D.mat
+  artifactKey: Guid(86a909c939b18c34b90c361ba5fa2f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_8A_D.mat using Guid(86a909c939b18c34b90c361ba5fa2f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e653f8edefcde716bc303a12c8c1bfe') in 0.021832 seconds
+  Import took 0.031828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_14A_D.mat
+  artifactKey: Guid(4c74c62b5519dbb4cbb4aed15725cd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_14A_D.mat using Guid(4c74c62b5519dbb4cbb4aed15725cd18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b317243bf4e7828734f670310f6ead18') in 0.023121 seconds
+  Import took 0.028803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_6A_D.mat
+  artifactKey: Guid(255031a0b311c49a18b8be0b7a18d724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_6A_D.mat using Guid(255031a0b311c49a18b8be0b7a18d724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6acaa6071a7a8a916301eecfb34b2708') in 0.021155 seconds
+  Import took 0.027757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_12A_D.mat
+  artifactKey: Guid(89cf21160bc5242f1855b61de547b18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_12A_D.mat using Guid(89cf21160bc5242f1855b61de547b18a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e64fc6c6c2091e823f0076d1bda302c') in 0.032400 seconds
+  Import took 0.038845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_13A_D.mat
+  artifactKey: Guid(edb31bde0e8a749d79fcd98e0355b8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_13A_D.mat using Guid(edb31bde0e8a749d79fcd98e0355b8c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e547c50259b77419b2e5bbff652eb68a') in 0.025530 seconds
+  Import took 0.030772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_7A_D.mat
+  artifactKey: Guid(c6e24719f3a964e678d51a7d45793570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_7A_D.mat using Guid(c6e24719f3a964e678d51a7d45793570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe818f07e5f6e5d19ea6e1842b2a3fb') in 0.026307 seconds
+  Import took 0.030953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_19A_D.mat
+  artifactKey: Guid(639634ee978838143a824bb34b8bcaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_19A_D.mat using Guid(639634ee978838143a824bb34b8bcaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64100534667a8b030dad5f1e6879a865') in 0.030647 seconds
+  Import took 0.034861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_16A_D.mat
+  artifactKey: Guid(cdca5de4c2bc99140a0f37549fb0cb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_16A_D.mat using Guid(cdca5de4c2bc99140a0f37549fb0cb2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b61b4907c2e4086e014fa21db56f8bbf') in 0.019749 seconds
+  Import took 0.027996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_15A_D.mat
+  artifactKey: Guid(cb402ecc2c4174ffd9d3824c40432d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_15A_D.mat using Guid(cb402ecc2c4174ffd9d3824c40432d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97508b91764e39d57c97ed1627094ce4') in 0.027998 seconds
+  Import took 0.034454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_16A_D.mat
+  artifactKey: Guid(f522aa164273648948b2f3a6db0a4dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_16A_D.mat using Guid(f522aa164273648948b2f3a6db0a4dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19be5f2c6766e0c33d6e51c8d29dcf4e') in 0.024248 seconds
+  Import took 0.030303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_11A_D.mat
+  artifactKey: Guid(40ba619ae641c1241a24950d66971dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_11A_D.mat using Guid(40ba619ae641c1241a24950d66971dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ea4425b5a34253c494aee54ec73c65') in 0.030242 seconds
+  Import took 0.037360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_11A_D.mat
+  artifactKey: Guid(7598b0d609ae84651b55acf26b4c839f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_11A_D.mat using Guid(7598b0d609ae84651b55acf26b4c839f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6afff5bb8facbca27873754d58dc692') in 0.021048 seconds
+  Import took 0.026102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_12A_D.mat
+  artifactKey: Guid(7a0499c69c45cb54eb53d0f0e7dc4eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_12A_D.mat using Guid(7a0499c69c45cb54eb53d0f0e7dc4eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91214203d3c77c135a961a10839dd92') in 0.026254 seconds
+  Import took 0.032593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_14A_D.mat
+  artifactKey: Guid(038c4dee2279c4266b5337b15b7be26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_14A_D.mat using Guid(038c4dee2279c4266b5337b15b7be26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26dd2f5ae39fdd59db3ca93bdf447a3d') in 0.021603 seconds
+  Import took 0.028768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_17A_D.mat
+  artifactKey: Guid(1be29e4d79ea144e2b6d4eb3278cae6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_17A_D.mat using Guid(1be29e4d79ea144e2b6d4eb3278cae6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199794645323d18b4932478a45009064') in 0.030320 seconds
+  Import took 0.044921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_15A_D.mat
+  artifactKey: Guid(238a848b216f73443bc21dd16bbc7b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_15A_D.mat using Guid(238a848b216f73443bc21dd16bbc7b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd26d510cafb2c3e20c68ff2c8741711f') in 0.020498 seconds
+  Import took 0.028168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_19A_D.mat
+  artifactKey: Guid(6f5f18a864dc4794383940620137fac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_19A_D.mat using Guid(6f5f18a864dc4794383940620137fac6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8bd41e1ea6085056c0af7fd5555ecf') in 0.034746 seconds
+  Import took 0.040670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_17A_D.mat
+  artifactKey: Guid(7095178594d70fb46be0f0b34b5df175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_17A_D.mat using Guid(7095178594d70fb46be0f0b34b5df175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98c104ffd855d329fd788c9d090ed66') in 0.029903 seconds
+  Import took 0.035003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_10A_D.mat
+  artifactKey: Guid(b8cff169bcef3d440abc005060b2837d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_10A_D.mat using Guid(b8cff169bcef3d440abc005060b2837d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9847090f0497702b4bfd0b8140e536e1') in 0.022092 seconds
+  Import took 0.028004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003220 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_17A_D.mat
+  artifactKey: Guid(7095178594d70fb46be0f0b34b5df175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_17A_D.mat using Guid(7095178594d70fb46be0f0b34b5df175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98c104ffd855d329fd788c9d090ed66') in 0.030224 seconds
+  Import took 0.042018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.336775 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_20A_D.mat
+  artifactKey: Guid(88caaf78feea4e34daaf553735a04cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_20A_D.mat using Guid(88caaf78feea4e34daaf553735a04cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87dcd56c9cfd9032cbca32209be98ee9') in 0.025935 seconds
+  Import took 0.030713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_21A_D.mat
+  artifactKey: Guid(5887e2d4e98feca409b7033c88c3f690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_21A_D.mat using Guid(5887e2d4e98feca409b7033c88c3f690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f07a35e84082e5a8a4a4943acac671') in 0.026706 seconds
+  Import took 0.031214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_4E_D.mat
+  artifactKey: Guid(9148fc0ac86d4b14e912c3923e802e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_4E_D.mat using Guid(9148fc0ac86d4b14e912c3923e802e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9bd9509dc8d5b9df4ec02bdb24eb0c') in 0.025909 seconds
+  Import took 0.030197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_3B_D.mat
+  artifactKey: Guid(40a6106d9e5707f468bc9af5e9f1fc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_3B_D.mat using Guid(40a6106d9e5707f468bc9af5e9f1fc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a355ff16aaf33b0d3ed363f096b974') in 0.020892 seconds
+  Import took 0.027969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Building_21A_D.mat
+  artifactKey: Guid(4e8e1a034fa9a3143977b45ae93cfa80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Building_21A_D.mat using Guid(4e8e1a034fa9a3143977b45ae93cfa80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f636ab02f3866c169fb92dc2c8720e') in 0.020509 seconds
+  Import took 0.025933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_6D_D.mat
+  artifactKey: Guid(6a30ff6c9dfba414b9025b32ae86ce9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_6D_D.mat using Guid(6a30ff6c9dfba414b9025b32ae86ce9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7724c6a8d597c7e70992dbcf35353916') in 0.027296 seconds
+  Import took 0.032432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_4E_D.mat
+  artifactKey: Guid(82d90f8bd75684695a3f76bfeea2fb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_4E_D.mat using Guid(82d90f8bd75684695a3f76bfeea2fb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19104fd5194e71fe4ad27acc00e69c5') in 0.024137 seconds
+  Import took 0.030733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Car_My/Prefabs/Material/Building_20A_D.mat
+  artifactKey: Guid(38b69f0a0ef206f4388a3a2380dd9b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Building_20A_D.mat using Guid(38b69f0a0ef206f4388a3a2380dd9b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab7c99da13dbd1bed9ec104e4e4e84f') in 0.031804 seconds
+  Import took 0.037099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_7F_D.mat
+  artifactKey: Guid(d668ac9e3528a47e2b21a1330a781506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_7F_D.mat using Guid(d668ac9e3528a47e2b21a1330a781506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041ce7fd93ab60e4639f2f878e7e12c3') in 0.027237 seconds
+  Import took 0.033859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001937 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_2D_D.mat
+  artifactKey: Guid(1ceeca04a04da49b2909c6f3a51d9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_2D_D.mat using Guid(1ceeca04a04da49b2909c6f3a51d9c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d929d0e68e80be193252b440f6a49b5') in 0.025886 seconds
+  Import took 0.030042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_4D_D.mat
+  artifactKey: Guid(974453634cfb84c05a3a9fcf6131b16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_4D_D.mat using Guid(974453634cfb84c05a3a9fcf6131b16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3796cccecad5efa55bc95a06cfd71264') in 0.022520 seconds
+  Import took 0.027930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_8D_D.mat
+  artifactKey: Guid(352b487105d5f42c1994d0c2122955d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_8D_D.mat using Guid(352b487105d5f42c1994d0c2122955d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5b7ba0413c8de67b847398105f0ade') in 0.028440 seconds
+  Import took 0.033642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_8D_D.mat
+  artifactKey: Guid(cb2fa442f87c3844aafb2bceb8777ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_8D_D.mat using Guid(cb2fa442f87c3844aafb2bceb8777ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7928c9638787f59f6cace0f1caa0e1') in 0.027791 seconds
+  Import took 0.033603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_2D_D.mat
+  artifactKey: Guid(c3f5a378f2ad64349891def942dca5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_2D_D.mat using Guid(c3f5a378f2ad64349891def942dca5be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f35ad35a118557f486f25d9e6a8a332') in 0.032784 seconds
+  Import took 0.044388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_7D_D.mat
+  artifactKey: Guid(d57edd5641870944792311ad301cd607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_7D_D.mat using Guid(d57edd5641870944792311ad301cd607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c8df0cc01cd63fce109e08f6050a02') in 0.020265 seconds
+  Import took 0.025628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001205 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_4D_D.mat
+  artifactKey: Guid(de52438c00673d34294348131f7fdb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_4D_D.mat using Guid(de52438c00673d34294348131f7fdb31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1039778a2f6ae1a50ede996a33e70df6') in 0.028196 seconds
+  Import took 0.032957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_6D_D.mat
+  artifactKey: Guid(c367850f8c6ccc64c95e34cda09c778e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_6D_D.mat using Guid(c367850f8c6ccc64c95e34cda09c778e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ef3f995883f4d035d130d853cd732c') in 0.020514 seconds
+  Import took 0.025604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_7D_D.mat
+  artifactKey: Guid(b5e30503b0293495a97979ee70bb0ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_7D_D.mat using Guid(b5e30503b0293495a97979ee70bb0ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431de3f9c3b042a909bc56430cf67727') in 0.028238 seconds
+  Import took 0.033775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_7F_D.mat
+  artifactKey: Guid(d3364b00c668d3944adbe88b5c1c63df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_7F_D.mat using Guid(d3364b00c668d3944adbe88b5c1c63df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ea3d99dc358f828dbd3fa6d47073ba') in 0.017152 seconds
+  Import took 0.021587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_3B_D.mat
+  artifactKey: Guid(38ae77aa49fc642f0b80cec41ab37e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_3B_D.mat using Guid(38ae77aa49fc642f0b80cec41ab37e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a22e7c3b01f98f3a51ba82c41333d2f') in 0.031615 seconds
+  Import took 0.036999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.313056 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_9A_D.mat
+  artifactKey: Guid(1d850a059e3fd49ca97016b240de0eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_9A_D.mat using Guid(1d850a059e3fd49ca97016b240de0eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fac3b9379251eaaf7f3a606e433d73') in 0.015650 seconds
+  Import took 0.021079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_11A_D.mat
+  artifactKey: Guid(014fc33b634126347a4c3a47108523ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_11A_D.mat using Guid(014fc33b634126347a4c3a47108523ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0fe410e21c8d25af0a31193e916396') in 0.019361 seconds
+  Import took 0.027361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_14C_D.mat
+  artifactKey: Guid(74a9498141800264299969b384540b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_14C_D.mat using Guid(74a9498141800264299969b384540b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd35ee93485f77675fc96586b41cb73') in 0.025711 seconds
+  Import took 0.032110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_10D_D.mat
+  artifactKey: Guid(b290577482390bd4395b243deaad5219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_10D_D.mat using Guid(b290577482390bd4395b243deaad5219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022abeb28b3e588eae884ce7f0b476c6') in 0.027051 seconds
+  Import took 0.038468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_10D_D.mat
+  artifactKey: Guid(d7e4e9b9fc67e48bd8ea09fa2eacbb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_10D_D.mat using Guid(d7e4e9b9fc67e48bd8ea09fa2eacbb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '001a0b929c9a2a77c2f57acf55376aa2') in 0.020097 seconds
+  Import took 0.029828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_9A_D.mat
+  artifactKey: Guid(88ab9597683f6134aa8e6213e23e5be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_9A_D.mat using Guid(88ab9597683f6134aa8e6213e23e5be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb29d48a0004b8e2c3f2435e7f30bdd2') in 0.023570 seconds
+  Import took 0.028912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_10C_D.mat
+  artifactKey: Guid(583a671e1d2fd49b994d997ea69357cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_10C_D.mat using Guid(583a671e1d2fd49b994d997ea69357cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13f42b2889dba1d4b615ef08e0fceda') in 0.026866 seconds
+  Import took 0.031993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Car_My/ModelsToonCity/Materials/Car_10C_D.mat
+  artifactKey: Guid(0be78cea4e43e714780e262ccc05a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/ModelsToonCity/Materials/Car_10C_D.mat using Guid(0be78cea4e43e714780e262ccc05a9cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd577ad8a85d8f9d1f07c7d50f74b7f72') in 0.016691 seconds
+  Import took 0.023137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_14C_D.mat
+  artifactKey: Guid(ec8ee9404d4744a799bcf92fb5b3535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_14C_D.mat using Guid(ec8ee9404d4744a799bcf92fb5b3535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4caed47e6642bff70c95de83e6ffec02') in 0.028628 seconds
+  Import took 0.036268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Car_My/Prefabs/Material/Car_11A_D.mat
+  artifactKey: Guid(a31074dab92f54b43889609358a3320b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Material/Car_11A_D.mat using Guid(a31074dab92f54b43889609358a3320b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af995a5bb09f8d58fe13f614fedd7e60') in 0.025325 seconds
+  Import took 0.035951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 548.209629 seconds.
+  path: Assets/curvedUnit — копия.mat
+  artifactKey: Guid(716aacdeaf424de43b8ac5d6b4b15363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/curvedUnit — копия.mat using Guid(716aacdeaf424de43b8ac5d6b4b15363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7192bded9fae5087999f53591329b814') in 0.028048 seconds
+  Import took 0.033812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.120601 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e658c1e780cff3cff2bf1be406e8911') in 0.034669 seconds
+  Import took 0.043019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002683 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e658c1e780cff3cff2bf1be406e8911') in 0.034677 seconds
+  Import took 0.042592 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007699 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.432 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.1 MB.
+System memory in use after: 101.2 MB.
+
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 2278.
+Total: 4.165000 ms (FindLiveObjects: 0.566600 ms CreateObjectMapping: 0.130000 ms MarkObjects: 3.295100 ms  DeleteObjects: 0.170700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 3.003400 ms (FindLiveObjects: 0.191500 ms CreateObjectMapping: 0.145800 ms MarkObjects: 2.577100 ms  DeleteObjects: 0.088000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007426 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.064 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 2.792400 ms (FindLiveObjects: 0.261900 ms CreateObjectMapping: 0.141300 ms MarkObjects: 2.306000 ms  DeleteObjects: 0.081800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2287.
+Total: 3.481000 ms (FindLiveObjects: 0.233200 ms CreateObjectMapping: 0.164500 ms MarkObjects: 2.991900 ms  DeleteObjects: 0.089800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.268 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.936500 ms (FindLiveObjects: 0.247100 ms CreateObjectMapping: 0.074500 ms MarkObjects: 2.527000 ms  DeleteObjects: 0.086700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005628 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.849400 ms (FindLiveObjects: 0.183400 ms CreateObjectMapping: 0.068400 ms MarkObjects: 2.509100 ms  DeleteObjects: 0.087100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.480 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.2 MB.
+System memory in use after: 101.3 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 3.017200 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.064100 ms MarkObjects: 2.678900 ms  DeleteObjects: 0.087300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 741.806547 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773103265811995e63d21b1268ba8177') in 0.098346 seconds
+  Import took 0.104400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.814580 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a443aac8d218fc50ee7d438ed40ecc4') in 0.036216 seconds
+  Import took 0.043275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.181337 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e210662404a949225ce386e293cf70d9') in 0.029478 seconds
+  Import took 0.034494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.134162 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2be8aff3e76b0bc77c49db8db84d05') in 0.037984 seconds
+  Import took 0.044183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.797171 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d90add346ba20e40d31e6a0c5c540f') in 0.029213 seconds
+  Import took 0.036283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.847397 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856be6705249e17ed1ec79f2bb5c335b') in 0.031513 seconds
+  Import took 0.039176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.106396 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f514292f32b05b55305fb76a754028') in 0.037749 seconds
+  Import took 0.042823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.436625 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ca70fbe5b607e568eb2d1cc56157c2') in 0.032005 seconds
+  Import took 0.038733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.609189 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4797f7ae37f35edfd441dacb17edabea') in 0.033922 seconds
+  Import took 0.040108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.802599 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcfe21c1ade39d9ffdb4abd2dde4065') in 0.038065 seconds
+  Import took 0.044577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.976050 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfc85c71b3c5a2bdb0e42a21834e4d8') in 0.031776 seconds
+  Import took 0.036123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.802516 seconds.
+  path: Assets/Car_My/Prefabs/Finish.prefab
+  artifactKey: Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car_My/Prefabs/Finish.prefab using Guid(db313b06a3c30994b8bcecef616765a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56307bcfeb1453ab1fe3dbb68d1b9933') in 0.036777 seconds
+  Import took 0.041407 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.260 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 101.5 MB.
+System memory in use after: 101.6 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 2300.
+Total: 2.936900 ms (FindLiveObjects: 0.424600 ms CreateObjectMapping: 0.146100 ms MarkObjects: 2.277400 ms  DeleteObjects: 0.087500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
