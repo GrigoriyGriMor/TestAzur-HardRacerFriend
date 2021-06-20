@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: 
-    guid: d1d1c7fa3c308294d952d22975726187
-  - enabled: 1
     path: Assets/Car_My/Scenes/HardRacerFriend.unity
     guid: d486c7e183b7e394e8a257c31bdeca62
   m_configObjects:
