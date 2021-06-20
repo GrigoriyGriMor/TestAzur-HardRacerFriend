@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class InGameController : MonoBehaviour
 {
-    private static InGameController instance;
+    private static InGameController instance; 
     public static InGameController Instance => instance;
 
     [SerializeField] private WorldCurver worldCurver;
@@ -28,6 +29,10 @@ public class InGameController : MonoBehaviour
     [SerializeField] private GameLevelController GLController;
     [SerializeField] private float timeSpawnOst = 3.0f;
 
+    [SerializeField] private GameObject finishPanel;
+    [SerializeField] private Text finishResult;
+
+
     private float timer;
     private float distance;
     private int pointValue = 0;
@@ -47,7 +52,9 @@ public class InGameController : MonoBehaviour
     }
 
     public void EndGame()
-    { 
+    {
+        finishPanel.SetActive(true);
+        finishResult.text = "You Result: " + pointValue;
         player.GetComponent<CarController>().LoseGame();
         GLController.PauseGame();
         stopGame = true;
@@ -62,9 +69,10 @@ public class InGameController : MonoBehaviour
 
     public void ResumedGame()
     {
-        player.GetComponent<CarController>().ResumedGame();
+        SceneManager.LoadScene(0);
+        /*player.GetComponent<CarController>().ResumedGame();
         GLController.ResumedGame();
-        stopGame = false;
+        stopGame = false;*/
     }
 
     public void PlayGame()//запуск уровня

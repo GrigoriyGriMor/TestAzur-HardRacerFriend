@@ -71,7 +71,7 @@ public class CarController : MonoBehaviour
         moveController._stopGame = true;
         sorce.volume = 0.01f;
         _stopGame = true;
-        startPanelActive.Invoke();
+      //  startPanelActive.Invoke();
     }
 
     private void OnTriggerEnter(Collider other)
